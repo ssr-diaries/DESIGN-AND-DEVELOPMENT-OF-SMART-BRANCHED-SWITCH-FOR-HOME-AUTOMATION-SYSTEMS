@@ -1,5 +1,7 @@
 # DESIGN-AND-DEVELOPMENT-OF-SMART-BRANCHED-SWITCH-FOR-HOME-AUTOMATION-SYSTEMS
 
+Please feel free to contact me through linkedin if you have any doubts regarding the project: https://linkedin.com/in/shreyas-ramachandran-srinivasan-565638117/
+
 INTRODUCTION
 
 Our project Smart Branched switch is basically a smart home automation system where the control is done by a smartphone application and processing is done by the microcontroller. The objective of the project is to design a prototype of smart control system for all electrical and electronic appliances in a house that will require minimal installation while offering a more comprehensive power monitoring and control. It will be more complete and user friendly than most of the smart control systems available in the market. It will provide automatic control of appliances during specific timings so as to reduce the burden of manually controlling them as well as reduced power consumption.
